@@ -12,3 +12,4 @@ Notes and usage details for shuttle.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
